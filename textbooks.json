@@ -44,6 +44,16 @@
       "author": "test",
       "class": "test",
       "image": ""
+    },
+    {
+      "file": "books/juypterNotebooks/TestPR.ipynb",
+      "zip": "",
+      "type": "notebook",
+      "name": "Test PR Notebook",
+      "descript": "",
+      "author": "Zachary Kelly",
+      "class": "AUCSL 360",
+      "image": ""
     }
   ],
   "E&E Engineering": [
