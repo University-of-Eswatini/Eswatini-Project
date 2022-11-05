@@ -1,62 +1,73 @@
 {
-  "Physics": [],
-  "Mathematics": [],
-  "Computer Science": [
-    {
-      "file": "books/juypterNotebooks/teset.ipynb",
-      "zip": "",
-      "type": "notebook",
-      "name": "Test",
-      "descript": "Test",
-      "author": "Test",
-      "class": "Test",
-      "image": ""
-    }
-  ],
-  "Chemistry": [],
-  "Biological Science": [
-    {
-      "file": "books/juypterNotebooks/LeastSquareMethod.ipynb",
-      "zip": "",
-      "type": "notebook",
-      "name": "Test",
-      "descript": "Test",
-      "author": "Zack",
-      "class": "AUTEST",
-      "image": ""
-    },
-    {
-      "file": "books/juypterNotebooks/teset.ipynb",
-      "zip": "",
-      "type": "notebook",
-      "name": "test",
-      "descript": "test",
-      "author": "test",
-      "class": "test",
-      "image": ""
-    },
-    {
-      "file": "books/juypterNotebooks/teset.ipynb",
-      "zip": "",
-      "type": "notebook",
-      "name": "test",
-      "descript": "test",
-      "author": "test",
-      "class": "test",
-      "image": ""
-    }
-  ],
-  "E&E Engineering": [
-    {
-      "file": "books/juypterNotebooks/teset.ipynb",
-      "zip": "",
-      "type": "notebook",
-      "name": "Test",
-      "descript": "Test",
-      "author": "Test",
-      "class": "Test",
-      "image": ""
-    }
-  ],
-  "GESP": []
+   "Physics": [
+      {
+         "file": "books/juypterNotebooks/TEST3.ipynb",
+         "zip": "",
+         "type": "notebook",
+         "name": "test",
+         "descript": "test",
+         "author": "test",
+         "class": "test",
+         "image": ""
+      }
+   ],
+   "Mathematics": [],
+   "Computer Science": [
+      {
+         "file": "books/juypterNotebooks/teset.ipynb",
+         "zip": "",
+         "type": "notebook",
+         "name": "Test",
+         "descript": "Test",
+         "author": "Test",
+         "class": "Test",
+         "image": ""
+      }
+   ],
+   "Chemistry": [],
+   "Biological Science": [
+      {
+         "file": "books/juypterNotebooks/LeastSquareMethod.ipynb",
+         "zip": "",
+         "type": "notebook",
+         "name": "Test",
+         "descript": "Test",
+         "author": "Zack",
+         "class": "AUTEST",
+         "image": ""
+      },
+      {
+         "file": "books/juypterNotebooks/teset.ipynb",
+         "zip": "",
+         "type": "notebook",
+         "name": "test",
+         "descript": "test",
+         "author": "test",
+         "class": "test",
+         "image": ""
+      },
+      {
+         "file": "books/juypterNotebooks/teset.ipynb",
+         "zip": "",
+         "type": "notebook",
+         "name": "test",
+         "descript": "test",
+         "author": "test",
+         "class": "test",
+         "image": ""
+      }
+   ],
+   "E&E Engineering": [
+      {
+         "file": "books/juypterNotebooks/teset.ipynb",
+         "zip": "",
+         "type": "notebook",
+         "name": "Test",
+         "descript": "Test",
+         "author": "Test",
+         "class": "Test",
+         "image": ""
+      }
+   ],
+   "GESP": []
 }
