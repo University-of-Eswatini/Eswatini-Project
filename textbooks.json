@@ -24,6 +24,17 @@
          "author": "Zack",
          "class": "AUTEST",
          "image": "Img/PresentationImage.png"
+      },
+      {
+         "file": "books/juypterNotebooks/TEST2.ipynb",
+         "zip": "",
+         "html": "books/jupyterHTML/TEST2.html",
+         "type": "notebook",
+         "name": "t",
+         "descript": "t",
+         "author": "t",
+         "class": "t",
+         "image": ""
       }
    ],
    "Chemistry": [
