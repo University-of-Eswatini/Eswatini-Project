@@ -43,6 +43,17 @@
          "author": "Test 4",
          "class": "Test 4",
          "image": ""
+      },
+      {
+         "file": "books/juypterNotebooks/TEST5.ipynb",
+         "zip": "",
+         "html": "books/jupyterHTML/TEST5.html",
+         "type": "notebook",
+         "name": "Test 5",
+         "descript": "Test 5",
+         "author": "Test 5",
+         "class": "Test 5",
+         "image": ""
       }
    ],
    "Mathematics": [],
